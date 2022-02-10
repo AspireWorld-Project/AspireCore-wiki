@@ -4,13 +4,13 @@
 
 Нигде в этих статьях вы не найдете ни описания ядра, ни чем оно отличается от MinecraftForge. Здесь только прикладная часть: конфигурация, использование, обслуживание. Никакого маркетинга.
 
-* [Быстрый старт](.github/Quickstart)
+* [Быстрый старт](.github/Quickstart.markdown)
 * Конфигурация сервера
   * Базовая настройка сервера - [server.yml](.github/server.yml)
   * Настройка миров - [worlds.yml](.github/worlds.yml)
   * Настройка пермишанов - [Permissions](.github/Permissions)
   * Блокировка предметов - [itemblocker.yml](.github/itemblocker.yml)
-* [Спавн мобов в UltraMine](.github/MobSpawn)
+* [Спавн мобов в UltraMine](.github/MobSpawn.markdown)
 
 Прочие ссылки:
 * [Исходники ядра](https://github.com/AspireWorld-Project/AspireCore)
