@@ -39,7 +39,7 @@
 
 Прочие ссылки:
 * [Исходники ядра](https://github.com/AspireWorld-Project/AspireCore)
-* [Maven репозиторий](https://maven.ultramine.ru/org/ultramine/core)
+* [Maven репозиторий(UltraMine based)](https://maven.ultramine.ru/org/ultramine/core)
 
 Известные несовместимости:
 * FastCraft
