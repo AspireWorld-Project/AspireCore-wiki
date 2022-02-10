@@ -8,7 +8,7 @@
 * Конфигурация сервера
   * Базовая настройка сервера - [server.yml](.github/server.yml)
   * Настройка миров - [worlds.yml](.github/worlds.yml)
-  * Настройка пермишанов - [Permissions](.github/Permissions.markdown)
+  * Пояснение за права (Permissions) - [Permissions](.github/Permissions.markdown)
   * Блокировка предметов - [itemblocker.yml](.github/itemblocker.yml)
 * [Спавн мобов в UltraMine](.github/MobSpawn.markdown)
 
