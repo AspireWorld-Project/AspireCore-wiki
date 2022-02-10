@@ -39,12 +39,16 @@
 
 Прочие ссылки:
 * [Исходники ядра](https://github.com/AspireWorld-Project/AspireCore)
-* [Maven репозиторий(UltraMine based)](https://maven.ultramine.ru/org/ultramine/core)
+* [Maven репозиторий (UltraMine based)](https://maven.ultramine.ru/org/ultramine/core)
 
-Известные несовместимости:
+Известные несовместимости (моды):
 * FastCraft
 * ServerTools
 * ForgeEssentials
 * DragonAPI
 * zzzzzcustomconfigs
 * NEID
+Известные несовместимости (плагины):
+* Пока таковых нет, но они могут появиться.
+* Дабы сразу попытаться всё исправить, рекомендую не умалчивать,
+* и сразу писать об этом.
