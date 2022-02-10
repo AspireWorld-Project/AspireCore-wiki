@@ -27,7 +27,7 @@
 
 * Фиксы ядра от s5a4ed1sa7.
   * [Фиксы](.github/s5a4ed1sa7/s5a4ed1sa7.markdown)
-  * [Дата фиксов](.github/s5a4ed1sa7/FixDate.markdown)
+  * [Даты фиксов](.github/s5a4ed1sa7/FixDate.markdown)
   * [ChangeLog](.github/s5a4ed1sa7/ChangeLog.markdown)
 * [Быстрый старт](.github/Quickstart.markdown)
 * Конфигурация сервера
