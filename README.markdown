@@ -37,11 +37,11 @@
   * Блокировка предметов - [itemblocker.yml](.github/itemblocker.yml)
 * [Спавн мобов в UltraMine](.github/MobSpawn.markdown)
 
-Прочие ссылки:
+**Прочие ссылки:**
 * [Исходники ядра](https://github.com/AspireWorld-Project/AspireCore)
 * [Maven репозиторий (UltraMine based)](https://maven.ultramine.ru/org/ultramine/core)
 
-Известные несовместимости (моды):
+**Известные несовместимости (моды):**
 * FastCraft
 * ServerTools
 * ForgeEssentials
@@ -49,7 +49,7 @@
 * zzzzzcustomconfigs
 * NEID
 
-Известные несовместимости (плагины):
+**Известные несовместимости (плагины):**
 * Пока таковых нет, но они могут появиться.
 * Дабы сразу попытаться всё исправить, рекомендую не умалчивать,
-* и сразу писать об этом.
+* и сразу писать об найденных вами (или известных) несовместимостях.
