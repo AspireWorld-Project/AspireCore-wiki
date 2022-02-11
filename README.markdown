@@ -4,7 +4,8 @@
 
 **API Ядра (базируется на внутренних фичах, + модах официального автора (перепис))**
 * API - реализует только s5a4ed1sa7, как и вики к нему.
-  * [API](https://github.com/AspireWorld-Project/AspireCore-api)
+  * Реализуется внутренними методами ядра.
+    * [API](https://github.com/AspireWorld-Project/AspireCore-api)
 
 **До версии от zaxar163 && fixer s5a4ed1sa7. Проще говоря, по ванилле ядра UltraMine, это никак не используется и не реализуется.**
 ```yaml
