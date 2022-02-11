@@ -3,8 +3,8 @@
 Ядро UltraMine - это **реализация Minecraft сервера на основе MinecraftForge**, действительно пригодное для промышленного использования на высоконагруженных серверах с сотнями модов.
 
 **API Ядра (базируется на внутренних фичах, + модах официального автора (перепис))**
-
-[API](https://github.com/AspireWorld-Project/AspireCore-api)
+* API - реализует только s5a4ed1sa7, как и вики к нему.
+  * [API](https://github.com/AspireWorld-Project/AspireCore-api)
 
 **До версии от zaxar163 && fixer s5a4ed1sa7. Проще говоря, по ванилле ядра UltraMine, это никак не используется и не реализуется.**
 ```yaml
